@@ -1,21 +1,18 @@
-<h1 align="center">
-  👾 YoungJibbit
-</h1>
+<h1 align="center">⚡ YoungJibbit95</h1>
 
 <p align="center">
-  <b>💻 Developer • ⚡ Creator • 🎯 Grinding Daily</b>
+  <b>💻 Developer • 🎨 UI Lover • 🚀 Sideproject Builder</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Build.+Repeat.;Clean+Code+Only.;Always+Improving+🚀;Welcome+to+my+GitHub+👀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Code.+Build.+Improve.;Learning+Java+%26+CSS%2FJS.;Clean+Projects%2C+Fast+UI%2C+Better+Every+Day.;Welcome+to+my+GitHub+%F0%9F%91%80" alt="Typing SVG" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YoungJibbit95&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YoungJibbit95?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/stars/YoungJibbit95?label=Stars&style=flat&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=YoungJibbit95&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/YoungJibbit95?label=Followers&style=flat&color=1f6feb" alt="followers" />
+  <img src="https://img.shields.io/github/stars/YoungJibbit95?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=f1e05a" alt="stars" />
+  <img src="https://img.shields.io/badge/Focus-Clean%20Code-111827?style=flat" alt="focus clean code" />
 </p>
 
 ---
@@ -23,45 +20,124 @@
 ## 🧠 About Me
 
 ```diff
-+ Building cool & modern stuff
-+ Focused on clean UI & performance
-+ Always learning new tech
-+ Consistency > Motivation
++ Learning Java + CSS/JS
++ Building sideprojects with clean design
++ Focused on modern UI, simple ideas and steady progress
++ Always improving one commit at a time
+```
 
-💡 I like creating things that are:
+<p align="center">
+  <img src="https://img.shields.io/badge/Style-Modern-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibe-Clean-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Consistent-ff00aa?style=for-the-badge" />
+</p>
 
-⚡ fast
+---
 
-🧼 clean
+## 🛠️ Tech Stack
 
-🎨 aesthetic
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,python,git,github,vscode" />
+</p>
 
-🛠️ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,git,github,vscode" /> </p>
-⚡ Dev Style
-<p align="center"> <img src="https://img.shields.io/badge/Code-Modern-00F7FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Clean_UI-111?style=for-the-badge" /> <img src="https://img.shields.io/badge/Mindset-Growth-ff00ff?style=for-the-badge" /> </p>
-📊 GitHub Analytics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YoungJibbit95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YoungJibbit95&theme=tokyonight&hide_border=true&background=00000000" /> </p>
-🧩 Top Languages
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungJibbit95&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" /> </p>
-🧠 Current Mindset
-> keep shipping
-> stay consistent
-> build > talk
-> learn > scroll
-🚀 Highlight Projects
-<p align="center"> 👉 Explore my work here <br/> <a href="https://github.com/YoungJibbit95?tab=repositories"> <img src="https://img.shields.io/badge/View_Projects-000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-🌐 Connect
-<p align="center"> <a href="https://github.com/YoungJibbit95"> <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-🎯 2026 Goals
+---
 
-🚀 Ship more projects
+## 📊 GitHub Stats
 
-🧠 Master new technologies
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YoungJibbit95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=YoungJibbit95&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+</p>
 
-🎨 Improve UI/UX skills
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungJibbit95&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
+</p>
 
-💰 Build something impactful
+---
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:ff00ff&height=120&section=footer"/> </p>
-<p align="center"> ⚡ <i>“Discipline beats motivation.”</i> </p> 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+</p>
+
+> ℹ️ If the snake doesn't show, add a GitHub Action later that generates it for your own profile repo.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌌 Nexus-Ecosystem</h3>
+      <p>Home to all Nexus versions — a bigger ecosystem-style project.</p>
+      <a href="https://github.com/YoungJibbit95/Nexus-Ecosystem">
+        <img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🧹 Win11-Cleaner</h3>
+      <p>A simple and fast Windows cleaner built with Python.</p>
+      <a href="https://github.com/YoungJibbit95/Win11-Cleaner">
+        <img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🦖 Dino-Game</h3>
+      <p>A simple browser game inspired by the Google Dino Game.</p>
+      <a href="https://github.com/YoungJibbit95/Dino-Game">
+        <img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🧮 Simple-Calculator</h3>
+      <p>A colorful calculator project with a simple, fun UI.</p>
+      <a href="https://github.com/YoungJibbit95/Simple-Calculator">
+        <img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Ship more polished sideprojects
+- 🎨 Level up UI / UX taste
+- 🧠 Get better in Java, CSS and JavaScript
+- ⚡ Build projects that are clean, useful and fun
+
+---
+
+## 🧩 Current Mindset
+
+```txt
+build > overthink
+consistency > excuses
+small progress > no progress
+clean code > messy hype
+```
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/YoungJibbit95">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7c3aed,100:ff00aa&height=140&section=footer" />
+</p>
+
+<p align="center">
+  <b>⚡ Discipline beats motivation.</b>
+</p>
