@@ -61,8 +61,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </p>
 
-> ℹ️ If the snake doesn't show, add a GitHub Action later that generates it for your own profile repo.
-
 ---
 
 ## 🚀 Featured Projects
