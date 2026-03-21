@@ -128,6 +128,12 @@ clean code > messy hype
   <a href="https://github.com/YoungJibbit95">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://instagram.com/youngjibbit95">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:youngjibbit.95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
 </p>
 
 ---
