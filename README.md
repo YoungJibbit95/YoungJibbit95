@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Code.+Build.+Improve.;Learning+React+%26+Electron%2FJS.;Clean+Projects%2C+Fast+UI%2C+Better+Every+Day.;Welcome+to+my+GitHub+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Code.+Build.+Improve.;Learning+React+%26+Electron%2FJS.;Cool+Projects%2C+Beautiful+UI%2C+Fast+Programs.;Welcome+to+my+GitHub+%F0%9F%91%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 ## 🧠 About Me
 
 ```diff
-+ Learning Java + CSS/JS
-+ Building sideprojects with clean design
++ Learning React, JS and Electron
++ Building cool projects
 + Focused on modern UI, simple ideas and steady progress
-+ Always improving one commit at a time
++ Always improving 
 ```
 
 <p align="center">
@@ -37,7 +37,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,python,electron,react,vite,capacitor,git,github,vscode,zed" />
 </p>
 
 ---
