@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=YoungJibbit95&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/YoungJibbit95?label=Followers&style=flat&color=1f6feb" alt="followers" />
   <img src="https://img.shields.io/github/stars/YoungJibbit95?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=f1e05a" alt="stars" />
-  <img src="https://img.shields.io/badge/Focus-Clean%20Code-111827?style=flat" alt="focus clean code" />
 </p>
 
 ---
