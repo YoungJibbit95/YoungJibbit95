@@ -1,7 +1,7 @@
 <h1 align="center">⚡ YoungJibbit95</h1>
 
 <p align="center">
-  <b>💻 Developer • 🎨 UI Lover • 🚀 Sideproject Builder</b>
+  <b>💻 Self-Taught Developer • 🎨 UI Designer • 🚀 Building cool and useful stuff</b>
 </p>
 
 <p align="center">
