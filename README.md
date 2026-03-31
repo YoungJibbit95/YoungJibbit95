@@ -1,7 +1,7 @@
 <h1 align="center">⚡ YoungJibbit95</h1>
 
 <p align="center">
-  <b>💻 Self-Taught Frontend Developer • 🎨 UI Designer • 🚀 Building cool and useful stuff</b>
+  <b>💻 Self-Taught Frontend Developer • 🎨 UI Designer • 🚀 Building cool stuff</b>
 </p>
 
 <p align="center">
