@@ -103,10 +103,10 @@
 
 ## 🎯 Current Goals
 
-- 🚀 Ship more polished sideprojects
-- 🎨 Level up UI / UX taste
-- 🧠 Get better in Java, CSS and JavaScript
-- ⚡ Build projects that are clean, useful and fun
+- 🚀 Launch nexus on all platforms
+- 🎨 Level up UI / UX design
+- 🧠 Get better in JavaScript, React and Electron
+- ⚡ Build useful stuff for everyone
 
 ---
 
