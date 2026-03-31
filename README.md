@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Style-Modern-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vibe-Clean-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current Main Language-JS-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mindset-Consistent-ff00aa?style=for-the-badge" />
 </p>
 
