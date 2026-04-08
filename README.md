@@ -90,9 +90,9 @@
       </a>
     </td>
     <td width="50%">
-      <h3>🧮 Simple-Calculator</h3>
-      <p>A colorful calculator project with a simple, fun UI.</p>
-      <a href="https://github.com/YoungJibbit95/Simple-Calculator">
+      <h3>🤖 YJarvis</h3>
+      <p>Jarvis for your desktop!</p>
+      <a href="https://github.com/YoungJibbit95/YJarvis">
         <img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
