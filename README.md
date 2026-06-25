@@ -83,16 +83,16 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🦖 Dino-Game</h3>
-      <p>A simple browser game inspired by the Google Dino Game.</p>
-      <a href="https://github.com/YoungJibbit95/Dino-Game">
+      <h3>⚙️​ Novacore</h3>
+      <p>A fps game engine written in c++</p>
+      <a href="https://github.com/YoungJibbit95/Novacore-Engine">
         <img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%">
-      <h3>🤖 YJarvis</h3>
-      <p>Jarvis for your desktop!</p>
-      <a href="https://github.com/YoungJibbit95/YJarvis">
+      <h3>🔫 Nemisis</h3>
+      <p>A fps game built with the Novacore Engine</p>
+      <a href="https://github.com/YoungJibbit95/Nemisis">
         <img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
