@@ -74,9 +74,9 @@
       </a>
     </td>
     <td width="50%">
-      <h3>🧹 Win11-Cleaner</h3>
-      <p>A simple and fast Windows cleaner built with Python.</p>
-      <a href="https://github.com/YoungJibbit95/Win11-Cleaner">
+      <h3>🧠 Nexus Cerebri</h3>
+      <p>Learning project for understanding how algorithms in ai development are used for different use cases.</p>
+      <a href="https://github.com/YoungJibbit95/Nexus-Cerebri">
         <img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
